@@ -1,0 +1,15 @@
+{
+    "walker_type": 3,
+    "num_simulations": 2,
+    "num_steps": 200,
+    "save_results": "Yes",
+    "plot_statistics": "Yes",
+    "obstacles": [[400,2,3,500]],
+    "gates": [
+        [12,14,10,10,[100,100]],
+        [23,23,45,23,[200,200]]
+        ],
+    "biased_walker_increasing": "",
+    "biased_walker_direction": "",
+    "restart_step": ""
+}
