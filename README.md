@@ -40,7 +40,8 @@ Here’s an example structure for `config.json`:
 }
 Refer to the in-app Help button for full descriptions of each field.
 
-## Output
+
+##  Output
 
 results.txt: raw simulation statistics.
 
@@ -48,7 +49,7 @@ graph_*.png: charts of walk metrics.
 
 crystal_graph.png: 2D path of the walker.
 
-## Dependencies
+##  Dependencies
 
 Python 3.x
 
