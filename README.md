@@ -18,6 +18,24 @@ This project is a configurable simulator for 2D random walks, enhanced with visu
 - Use the `Help` button for parameter descriptions.
 - Crystal graph will be shown at the end.
 
+##  Output
+
+results.txt: raw simulation statistics.
+
+graph_*.png: charts of walk metrics.
+
+crystal_graph.png: 2D path of the walker.
+
+##  Dependencies
+
+Python 3.x
+
+tkinter
+
+matplotlib
+
+numpy
+
 ##  Configuration File (JSON)
 
 Here’s an example structure for `config.json`:
@@ -41,20 +59,3 @@ Here’s an example structure for `config.json`:
 Refer to the in-app Help button for full descriptions of each field.
 
 
-##  Output
-
-results.txt: raw simulation statistics.
-
-graph_*.png: charts of walk metrics.
-
-crystal_graph.png: 2D path of the walker.
-
-##  Dependencies
-
-Python 3.x
-
-tkinter
-
-matplotlib
-
-numpy
